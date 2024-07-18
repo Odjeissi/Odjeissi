@@ -1,15 +1,15 @@
 <h1>Hi, I'm Odjeissi! 
-<br> <a href="##">Cybersecurity Professional</a> <br/>
+<br> <a href="www.linkedin.com">Cybersecurity Professional</a> <br/>
 
 <h2>👨‍💻 Hands-on Projects:</h2>
 
-- <b>Cloud-Soc</b>
-  - [Soc](https://github.com)
+- <b>Azure / Cloud Projects</b>
+  - [Creating a Live Soc/Honeynet in Azure](https://github.com)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Odjeissi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Odjeissi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com
 [linkedin]: https://linkedin.com
