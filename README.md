@@ -1,4 +1,4 @@
-<h1>Hi, I'm Odjeissi! 
+<h1>Hi, I'm Odjeissi (OJ)! 
 <br> <a href="www.linkedin.com">Cybersecurity Professional</a> <br/>
 
 <h2>👨‍💻 Hands-on Projects:</h2>
