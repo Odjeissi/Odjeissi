@@ -4,7 +4,7 @@
 <h2>👨‍💻 Hands-on Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
-  - [Creating a Live Soc/Honeynet in Azure](https://github.com)
+  - [Creating a Live Soc/Honeynet in Azure](https://github.com/Odjeissi/Live-Soc-Honeynet)
 
 <h2> 🤳 Connect with me:</h2>
 
