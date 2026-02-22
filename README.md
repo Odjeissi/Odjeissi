@@ -1,9 +1,9 @@
 <h1>Hi, I'm Odjeissi (OJ)! 
-<br> <a href="https://www.linkedin.com/in/odjeissi">Cybersecurity Professional</a> <br/>
+<br> <a href="https://www.linkedin.com/in/odjeissi">Network Engineer</a> <br/>
 
 <h2>👨‍💻 Hands-on Projects:</h2>
 
-- <b>Azure / Cloud Projects</b>
+- <b>Enterprise-Multi-Vlan-Campus-Design</b>
   - [Creating a Live Soc/Honeynet in Azure](https://github.com/Odjeissi/Live-Soc-Honeynet)
 
 - <b>Active-Directory / SOC </b>
