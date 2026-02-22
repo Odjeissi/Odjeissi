@@ -4,7 +4,7 @@
 <h2>👨‍💻 Hands-on Projects:</h2>
 
 - <b>Enterprise-Multi-Vlan-Campus-Design</b>
-  - [Creating a Live Soc/Honeynet in Azure](https://github.com/Odjeissi/Live-Soc-Honeynet)
+  - [Multi-Vlan-Campus-Design](https://github.com/Odjeissi/enterprise-multi-vlan-campus-design.git)
 
 - <b>Active-Directory / SOC </b>
   - [Active-Directory-Project](https://github.com/Odjeissi/Active-Directory-Project)
