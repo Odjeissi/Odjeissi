@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Odjeissi (OJ) 👋</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/odjeissi">Network Engineer</a> •
-  Enterprise Networking • Routing/Switching • AD • Security Labs
+  Networking • Routing/Switching • AD • Security
 </p>
 
 <p align="center">
-  I build hands-on labs focused on <b>scalable network design</b>, <b>routing (OSPF)</b>, <b>VLAN segmentation</b>, and <b>Windows/AD environments</b>.
+  I build hands-on labs focused on <b>scalable network design</b>, <b>routing (OSPF, EIGRP, BGP)</b>, <b>VLAN segmentation</b>, and <b>Windows/AD environments</b>.
   <br/>
-  Currently expanding into <b>network security</b> and <b>SOC monitoring</b>.
+  Currently expanding into <b>network security</b>.
 </p>
 
 ---
