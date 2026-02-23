@@ -7,7 +7,7 @@
 <p align="center">
   I build hands-on labs focused on <b>scalable network design</b>, <b>routing (OSPF, EIGRP, BGP)</b>, <b>VLAN segmentation</b>, and <b>Windows/AD environments</b>.
   <br/>
-  Currently expanding into <b>network security</b>.
+  Currently expanding into <b>Network Security</b>.
 </p>
 
 ---
