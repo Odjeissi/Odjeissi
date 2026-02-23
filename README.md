@@ -48,7 +48,9 @@
 
 <p>
   <a href="https://www.linkedin.com/in/odjeissi">
-    <img alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
+  <img alt="LinkedIn" width="22px"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
+      style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com">
