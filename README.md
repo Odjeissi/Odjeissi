@@ -41,23 +41,6 @@
     🔗 <a href="https://github.com/Odjeissi/enterprise-multi-vlan-campus-design">View Repository</a>
   </li>
   <br/>
-  <li>
-  <b>Enterprise WAN Architecture with OSPF, HSRP & NAT</b><br/>
-  <sub>Dynamic Routing • Layer 3 Switching • Gateway Redundancy • WAN Edge Design • Traffic Filtering</sub><br/>
-  🔗 <a href="https://github.com/Odjeissi/Redundant-Enterprise-Wan.git">View Repository</a>
-  </li>
-  <br/>
-  <li>
-    <b>OSPF Branch-to-HQ WAN Design</b><br/>
-    <sub>OSPF Configuration • Multi-Router WAN • Route Verification • Troubleshooting</sub><br/>
-    🔗 <a href="https://github.com/Odjeissi/OSPF-Branch-to-HQ-WAN-Design">View Repository</a>
-  </li>
-  <br/>
-  <li>
-    <b>Active Directory / SOC Lab</b><br/>
-    <sub>Windows Server • AD DS • Group Policy • Logging & Monitoring • Security Hardening</sub><br/>
-    🔗 <a href="https://github.com/Odjeissi/Active-Directory-Project">View Repository</a>
-  </li>
 </ul>
 
 ---
