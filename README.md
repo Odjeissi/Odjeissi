@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Odjeissi (OJ) 👋</h1>
 
 <p align="center">
-  <b>Network Engineer</b> • CCNA • Security+ • Enterprise Infrastructure & Security
+  <b>Cloud & DevOps Enthusiast</b> • AWS • Terraform • Docker • GitLab CI/CD • CCNA • Security+
 </p>
 
 <p align="center">
-  I build hands-on networking labs focused on scalable enterprise design, OSPF/EIGRP/BGP routing,
-  VLAN segmentation and Active Directory environments. 
-  Passionate about secure and reliable network architecture.
+  I build hands-on cloud infrastructure projects focused on Infrastructure as Code, AWS networking, CI/CD automation, scalable web architecture, and secure cloud deployments. 
+  My background in networking and cybersecurity helps me design reliable and security-aware cloud environments.
 </p>
 
 ---
@@ -16,6 +15,7 @@
 
 <p>
   🎓 <b>Bachelor’s Degree</b> – Management Information Systems <br/><br/>
+  🎓 <b>Master’s Degree</b> – Cyber security <br/><br/>
   <img src="https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Security%2B-CompTIA-E60012?style=for-the-badge&logo=comptia&logoColor=white" />
 </p>
@@ -25,9 +25,12 @@
 <h2>📚 Currently Advancing Skills In</h2>
 
 <ul>
-  <li>🔥 Fortinet (FortiGate) Firewall Configuration</li>
-  <li>🛡️ Network Security Architecture & ACL Optimization</li>
-  <li>🌐 Advanced Traffic Analysis with Wireshark</li>
+  <li>☁️ AWS Cloud Infrastructure</li> 
+  <li>🏗️ Terraform Infrastructure as Code</li> 
+  <li>⚙️ GitLab CI/CD Pipeline Automation</li> 
+  <li>🐳 Docker and Containerized Application Deployment</li> 
+  <li>📊 CloudWatch Monitoring, Logging, and Alerting</li> 
+  <li>🔐 Cloud Security Best Practices</li>
 </ul>
 
 ---
@@ -35,12 +38,6 @@
 <h2>👨‍💻 Featured Hands-on Projects</h2>
 
 <ul>
-  <li>
-    <b>Enterprise Multi-VLAN Campus Design</b><br/>
-    <sub>VLAN Segmentation • Trunking • Inter-VLAN Routing • IP Addressing • Layer 3 Design</sub><br/>
-    🔗 <a href="https://github.com/Odjeissi/enterprise-multi-vlan-campus-design">View Repository</a>
-  </li>
-  <br/>
   <li>
     <b>AWS-Scalable-Web-Infrastructure</b><br/>
     <sub>Terraform • AWS VPC • ALB • Auto Scaling • EC2 • RDS • Route53 • ACM • S3 • GitLab CI/CD</sub><br/>
@@ -54,11 +51,16 @@
 <h2>🧰 Technical Skills</h2>
 
 <p>
+  <b>Cloud & DevOps:</b> AWS, Terraform, GitLab CI/CD, Infrastructure as Code, Remote State, Auto Scaling<br/>
   <b>Networking:</b> VLANs, Subnetting, Inter-VLAN Routing, OSPF, ACLs, WAN Design<br/>
   <b>Security:</b> Network Hardening, Firewall Concepts, SOC Monitoring, Traffic Analysis<br/>
   <b>Systems:</b> Windows Server, Active Directory, Group Policy, PowerShell<br/>
   <b>Tools:</b> Packet Tracer, Wireshark, FortiGate (Learning)
 </p>
+
+---
+
+<h2>🚀 Career Focus</h2> <p> I am focused on growing into Cloud, DevOps, and Infrastructure roles where I can combine my networking, cybersecurity, and automation skills to build secure, scalable, and reliable cloud environments. </p>
 
 ---
 
