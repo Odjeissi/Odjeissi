@@ -44,6 +44,11 @@
     🔗 <a href="https://github.com/Odjeissi/aws-scalable-web-infrastructure.git">View Repository</a>
   </li>
   <br/>
+  <li>
+    <b>Flask-AWS-User-Profile-App</b><br/>
+    <sub>Flask • Docker • AWS EC2 • RDS • S3 • IAM • Docker Hub • GitLab CI/CD • Pytest</sub><br/>
+    🔗 <a href="https://github.com/Odjeissi/Flask-AWS-User-Profile-App">View Repository</a>
+  </li>
 </ul>
 
 ---
