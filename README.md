@@ -15,7 +15,7 @@
 
 <p>
   🎓 <b>Bachelor’s Degree</b> – Management Information Systems <br/><br/>
-  🎓 <b>Master’s Degree</b> – Cyber security <br/><br/>
+  🎓 <b>Master’s Degree</b> – Cyber Security <br/><br/>
   <img src="https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Security%2B-CompTIA-E60012?style=for-the-badge&logo=comptia&logoColor=white" />
 </p>
