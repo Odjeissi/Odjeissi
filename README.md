@@ -39,7 +39,7 @@
 
 <ul>
   <li>
-    <b>AWS-Scalable-Web-Infrastructure</b><br/>
+    <b>AWS-3Tier-Infrastructure</b><br/>
     <sub>Terraform • AWS VPC • ALB • ECR • ECS • RDS • Route53 • ACM • Secrets Manager • GitLab CI/CD</sub><br/>
     🔗 <a href="https://github.com/Odjeissi/aws-3tier-terraform">View Repository</a>
   </li>
