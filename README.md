@@ -40,8 +40,8 @@
 <ul>
   <li>
     <b>AWS-Scalable-Web-Infrastructure</b><br/>
-    <sub>Terraform • AWS VPC • ALB • Auto Scaling • EC2 • RDS • Route53 • ACM • S3 • GitLab CI/CD</sub><br/>
-    🔗 <a href="https://github.com/Odjeissi/aws-scalable-web-infrastructure.git">View Repository</a>
+    <sub>Terraform • AWS VPC • ALB • ECR • ECS • RDS • Route53 • ACM • Secrets Manager • GitLab CI/CD</sub><br/>
+    🔗 <a href="https://github.com/Odjeissi/aws-3tier-terraform">View Repository</a>
   </li>
   <br/>
   <li>
