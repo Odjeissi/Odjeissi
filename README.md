@@ -45,6 +45,12 @@
   </li>
   <br/>
   <li>
+    <b>Employee-Management-AWS-ECS-CI-CD-Project</b><br/>
+    <sub>Flask • Docker • GitLab CI/CD • AWS ECR • ECS Fargate • RDS PostgreSQL • IAM • OIDC • Pytest • Pylint</sub><br/>
+    🔗 <a href="https://github.com/Odjeissi/Employee-Management-AWS-ECS">View Repository</a>
+  </li>
+  <br/>
+  <li>
     <b>Flask-AWS-User-Profile-App</b><br/>
     <sub>Flask • Docker • AWS EC2 • RDS • S3 • IAM • Docker Hub • GitLab CI/CD • Pytest</sub><br/>
     🔗 <a href="https://github.com/Odjeissi/Flask-AWS-User-Profile-App">View Repository</a>
