@@ -46,6 +46,12 @@
      🔗 <a href="https://github.com/Odjeissi/iac-eks">View Infrastructure / Terraform Repository</a>
    </li>
    <br/>
+   <li>
+    <b>AWS-3Tier-Infrastructure</b><br/>
+    <sub>Terraform • AWS VPC • ALB • ECR • ECS • RDS • Route53 • ACM • Secrets Manager • GitLab CI/CD</sub><br/>
+    🔗 <a href="https://github.com/Odjeissi/aws-3tier-terraform">View Repository</a>
+   </li>
+   <br/>
   <li>
     <b>Employee-Management-AWS-ECS-CI-CD-Project</b><br/>
     <sub>Flask • Docker • GitLab CI/CD • AWS ECR • ECS Fargate • RDS PostgreSQL • IAM • OIDC • Pytest • Pylint</sub><br/>
@@ -56,12 +62,6 @@
     <b>Flask-AWS-User-Profile-App</b><br/>
     <sub>Flask • Docker • AWS EC2 • RDS • S3 • IAM • Docker Hub • GitLab CI/CD • Pytest</sub><br/>
     🔗 <a href="https://github.com/Odjeissi/Flask-AWS-User-Profile-App">View Repository</a>
-  </li>
-  <br/>
-  <li>
-    <b>AWS-3Tier-Infrastructure</b><br/>
-    <sub>Terraform • AWS VPC • ALB • ECR • ECS • RDS • Route53 • ACM • Secrets Manager • GitLab CI/CD</sub><br/>
-    🔗 <a href="https://github.com/Odjeissi/aws-3tier-terraform">View Repository</a>
   </li>
 </ul>
 
