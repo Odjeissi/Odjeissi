@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Odjeissi (OJ) 👋</h1>
 
 <p align="center">
-  <b>Cloud & DevOps Enthusiast</b> • AWS • Terraform • Docker • GitLab CI/CD • CCNA • Security+
+  <b>Cloud & DevOps Enthusiast</b> • AWS • Kubernetes • Terraform • Docker • GitLab CI/CD • CCNA • Security+
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@
 <h2>📚 Currently Advancing Skills In</h2>
 
 <ul>
-  <li>☁️ AWS Cloud Infrastructure</li> 
-  <li>🏗️ Terraform Infrastructure as Code</li> 
-  <li>⚙️ GitLab CI/CD Pipeline Automation</li> 
-  <li>🐳 Docker and Containerized Application Deployment</li> 
-  <li>📊 CloudWatch Monitoring, Logging, and Alerting</li> 
+  <li>☸️ Kubernetes and AWS EKS</li>
+  <li>🔄 GitOps with Argo CD</li>
+  <li>📊 Prometheus and Grafana Monitoring</li>
+  <li>🏗️ Terraform Infrastructure as Code</li>
+  <li>⚙️ CI/CD Pipeline Automation</li>
   <li>🔐 Cloud Security Best Practices</li>
 </ul>
 
