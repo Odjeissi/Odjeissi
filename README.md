@@ -70,11 +70,12 @@
 <h2>🧰 Technical Skills</h2>
 
 <p>
-  <b>Cloud & DevOps:</b> AWS, Terraform, GitLab CI/CD, Infrastructure as Code, Remote State, Auto Scaling<br/>
+  <b>Cloud & DevOps:</b> AWS, EKS, Kubernetes, Terraform, Docker, GitLab CI/CD, Argo CD, Kustomize, ECR, Infrastructure as Code<br/>
   <b>Networking:</b> VLANs, Subnetting, Inter-VLAN Routing, OSPF, ACLs, WAN Design<br/>
-  <b>Security:</b> Network Hardening, Firewall Concepts, SOC Monitoring, Traffic Analysis<br/>
+  <b>Security:</b> Network Hardening, IAM, OIDC, Firewall Concepts, SOC Monitoring, Traffic Analysis<br/>
   <b>Systems:</b> Windows Server, Active Directory, Group Policy, PowerShell<br/>
-  <b>Tools:</b> Packet Tracer, Wireshark, FortiGate (Learning)
+  <b>Monitoring:</b> CloudWatch, Prometheus (Learning), Grafana (Learning)<br/>
+  <b>Tools:</b> Git, GitHub, GitLab, Linux, Wireshark, Packet Tracer
 </p>
 
 ---
