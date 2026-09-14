@@ -42,8 +42,6 @@
     <b>End-to-End AWS EKS Deployment with GitOps</b><br/>
     <sub>AWS EKS • Kubernetes • Argo CD • Kustomize • Terraform • Docker • Amazon ECR • GitLab CI/CD • ExternalDNS • External Secrets</sub><br/>
      🔗 <a href="https://github.com/Odjeissi/ks8">View Kubernetes / GitOps Repository</a><br/>
-     🔗 <a href="https://github.com/Odjeissi/code_source_eks">View Application / CI Repository</a><br/>
-     🔗 <a href="https://github.com/Odjeissi/iac-eks">View Infrastructure / Terraform Repository</a>
    </li>
    <br/>
    <li>
