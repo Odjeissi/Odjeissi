@@ -72,7 +72,7 @@
   <b>Networking:</b> VLANs, Subnetting, Inter-VLAN Routing, OSPF, ACLs, WAN Design<br/>
   <b>Security:</b> Network Hardening, IAM, OIDC, Firewall Concepts, SOC Monitoring, Traffic Analysis<br/>
   <b>Systems:</b> Windows Server, Active Directory, Group Policy, PowerShell<br/>
-  <b>Monitoring:</b> CloudWatch, Prometheus (Learning), Grafana (Learning)<br/>
+  <b>Monitoring:</b> CloudWatch, Prometheus, Grafana<br/>
   <b>Tools:</b> Git, GitHub, GitLab, Linux, Wireshark, Packet Tracer
 </p>
 
