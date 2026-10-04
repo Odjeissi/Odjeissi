@@ -39,17 +39,20 @@
 
 <ul>
   <li>
-    <b>End-to-End AWS EKS GitOps Deployment with Observability</b><br/>
-    <sub>AWS EKS • Kubernetes • Argo CD • Kustomize • Terraform • Docker • Amazon ECR • GitLab CI/CD • Prometheus • Grafana • ExternalDNS • External Secrets</sub><br/>
-     🔗 <a href="https://github.com/Odjeissi/ks8">View Kubernetes / GitOps Repository</a><br/>
-   </li>
+  <b>End-to-End AWS EKS GitOps Deployment with Observability</b><br/>
+  <sub>
+    AWS EKS • Kubernetes • Argo CD • Kustomize • Terraform • Docker • Amazon ECR •
+    GitLab CI/CD • Prometheus • Grafana • ExternalDNS • External Secrets
+  </sub><br/>
+  🔗 <a href="https://github.com/Odjeissi/ks8">Kubernetes / GitOps</a> •
+  <a href="https://github.com/Odjeissi/code_source_eks">Application / CI/CD</a> •
+  <a href="https://github.com/Odjeissi/iac-eks">Terraform / Infrastructure</a>
+</li>
    <br/>
    <li>
     <b>AWS-3Tier-Infrastructure</b><br/>
     <sub>Terraform • AWS VPC • ALB • ECR • ECS • RDS • Route53 • ACM • Secrets Manager • GitLab CI/CD</sub><br/>
-    🔗 <a href="https://github.com/Odjeissi/aws-3tier-terraform">View Repository</a> •
-     <a href="https://github.com/Odjeissi/code_source_eks">Application / CI/CD</a> •
-     <a href="https://github.com/Odjeissi/iac-eks">Terraform / Infrastructure</a>
+    🔗 <a href="https://github.com/Odjeissi/aws-3tier-terraform">View Repository</a>
    </li>
    <br/>
   <li>
