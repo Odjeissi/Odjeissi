@@ -39,6 +39,16 @@
 
 <ul>
   <li>
+    <b>Java E-Commerce DevSecOps Pipeline on AWS EKS</b><br/>
+    <sub>
+      Java 21 • Spring Boot • Maven • PostgreSQL • Docker •
+      AWS EKS • Terraform • Amazon ECR • GitLab CI/CD •
+      SonarQube • Snyk • Gitleaks • Trivy • OWASP ZAP •
+      Kubernetes • Kustomize • Argo CD • Prometheus • Grafana
+    </sub><br/>
+    🔗 <a href="https://github.com/Odjeissi/maven_project">View Project</a>
+  </li>
+  <li>
   <b>End-to-End AWS EKS GitOps Deployment with Observability</b><br/>
   <sub>
     AWS EKS • Kubernetes • Argo CD • Kustomize • Terraform • Docker • Amazon ECR •
