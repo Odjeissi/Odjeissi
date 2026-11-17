@@ -46,7 +46,7 @@
           SonarQube • Snyk • Gitleaks • Trivy • OWASP ZAP •
           Kubernetes • Kustomize • Argo CD • Prometheus • Grafana
         </sub><br/>
-        🔗 <a href="https://github.com/Odjeissi/maven_project">View Project</a>
+        🔗 <a href="https://github.com/Odjeissi/maven_project">View Repository</a>
       </li>
      <br/>
       <li>
